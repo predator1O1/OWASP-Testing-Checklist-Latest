@@ -14,6 +14,8 @@ This checklist is based on the OWASP Web Security Testing Guide (WSTG) v5 and co
 4. Risk Assessment Calculator
 5. References
 6. Tests
+
+## Test Areas
 - Information Gathering
 - Configuration and Deployment Management Testing
 - Identity Management Testing
