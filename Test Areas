@@ -1,0 +1,13 @@
+# Test Areas
+- Information Gathering
+- Configuration and Deployment Management Testing
+- Identity Management Testing
+- Authentication Testing
+- Authorization Testing
+- Session Management Testing
+- Input Validation Testing
+- Testing for Error Handling
+- Testing for Weak Cryptography
+- Business Logic Testing
+- Client-side Testing
+- API Testing
